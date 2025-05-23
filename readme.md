@@ -2,7 +2,7 @@
 
 1. **Open the website**
 Go to this link:
-👉 [https://cnzenapps.github.io/calc-aos/](https://memesoondev.github.io/calc-aos/)
+👉 https://cnzenapps.github.io/CNZEN-Calculator/
 
 2. **Using the buttons**
 You will find the number buttons (0 to 9) and arithmetic operations such as:
